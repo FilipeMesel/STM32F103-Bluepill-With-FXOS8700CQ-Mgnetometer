@@ -1,6 +1,6 @@
 # STM 32L051C8Tx com Magnetômetro
 
-Projeto visa interfacear via i2c o periférico FXOS8700CQ magnetômetro com 32L051C8Tx.
+Projeto visa interfacear via i2c o periférico FXOS8700CQ magnetômetro com STM32F03C8T6 Bluepill.
 
 # Como rodar o código:
 
