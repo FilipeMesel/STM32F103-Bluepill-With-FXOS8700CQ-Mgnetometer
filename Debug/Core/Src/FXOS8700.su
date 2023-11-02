@@ -1,0 +1,4 @@
+../Core/Src/FXOS8700.c:13:9:magnetometter_get_who_am_i	40	static
+../Core/Src/FXOS8700.c:20:9:magnetometter_init	40	static
+../Core/Src/FXOS8700.c:86:6:ReadAccelMagnData	48	static
+../Core/Src/FXOS8700.c:108:9:getData	16	static
